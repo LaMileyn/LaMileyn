@@ -3,7 +3,7 @@
 ### 📑 About me
     I am a Full Stack Developer
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue)](@itsdimaamidsti)
-### :hammer_and_wrench: My Skills and Technologies
+### :hammer_and_wrench: Skills and Technologies
 #### Frontend:
 - 🛰️ HTML, CSS (SASS, SCSS), JavaScript, TypeScript;  
 - 🐡 React, Redux, Redux ToolKit, Styled-Components;
