@@ -5,12 +5,13 @@
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue)](@itsdimaamidsti)
 ### :hammer_and_wrench: Skills and Technologies
 #### Frontend:
-- 🛰️ HTML, CSS (SASS, SCSS), JavaScript, TypeScript;  
-- 🐡 React, Redux, Redux ToolKit, Styled-Components;
-- 🥬 Vue, Vuex, Effector, Mobx;  
+- 🛰️ HTML, CSS, Sass, Less, JavaScript, TypeScript;  
+- 🐡 Next.js, React, Redux, Redux ToolKit, Styled-Components;
+- 🥬 Nuxt.js, Vue, Vuex;
+- 🛰️ Effector, Mobx;  
 
 #### Backend:
 - 🧮 Python (Django);  
-- 🩹 Node.js, Express.js;
-- 🫀 MongoDB, MySQL;  
+- 🩹 Node.js, Express.js, Nest.js;
+- 🫀 MongoDB, PostgreSQL;  
 
