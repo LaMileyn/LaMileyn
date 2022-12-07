@@ -6,7 +6,7 @@
 ### :hammer_and_wrench: Skills and Technologies
 #### Frontend:
 - 🛰️ HTML, CSS, Sass, Less, JavaScript, TypeScript;  
-- 🐡 Next.js, React, Redux, Redux ToolKit, Styled-Components;
+- 🐡 Next.js, React, Redux, Redux ToolKit;
 - 🥬 Nuxt.js, Vue, Vuex;
 - 🛰️ Effector, Mobx;  
 
