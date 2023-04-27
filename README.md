@@ -7,7 +7,7 @@
 #### Frontend:
 - 🛰️ HTML, CSS, Sass, Less, JavaScript, TypeScript;  
 - 🐡 Next.js, React, Redux, Redux ToolKit, React Query;
-- 🥬 Nuxt.js, Vue, Vuex;
+- 🥬 Vue;
 - 🛰️ Effector, Mobx;  
 
 #### Backend:
