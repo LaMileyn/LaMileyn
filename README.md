@@ -1,5 +1,5 @@
 ## Hi there, Welcome to my github! 🤤
-###### Here i spend most of my time 🕔 😙
+###### 🕔 😙
 ### 📑 About me
     I am a Full Stack Developer
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue)](@itsdimaamidsti)
