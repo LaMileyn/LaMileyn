@@ -1,17 +1,18 @@
 ## Hi there, Welcome to my github! 🤤
-###### 🕔 😙
+######
 ### 📑 About me
-    I am a Full Stack Developer
+    I am a FullStack Developer
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue)](@itsdimaamidsti)
 ### :hammer_and_wrench: Skills and Technologies
 #### Frontend:
-- 🛰️ HTML, CSS, Sass, Less, JavaScript, TypeScript;  
+- 🛰️ HTML, CSS, Sass, Less, JavaScript, TypeScript;
+- 🩹 Tailwind, MUI, StoryBook;
 - 🐡 Next.js, React, Redux, Redux ToolKit, React Query;
-- 🥬 Vue;
-- 🛰️ Effector, Mobx;  
+- 🥬 Vue, Vuex, Zustand, Mobx, Effector;
+- 🛰️ WebSockets, Webpack, Vite 
 
 #### Backend:
-- 🧮 Python (Django);  
+- 🧮 Python, Django Framework;  
 - 🩹 Node.js, Express.js, Nest.js;
 - 🫀 MongoDB, PostgreSQL;  
 
