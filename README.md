@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my github! 🤤
 ######
 ### 📑 About me
-    I am a FullStack Developer
+    I am a Frontend Developer
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue)](@itsdimaamidsti)
 ### :hammer_and_wrench: Skills and Technologies
 #### Frontend:
