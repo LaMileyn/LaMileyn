@@ -12,7 +12,7 @@
 - 🛰️ WebSockets, Webpack, Vite 
 
 #### Backend:
-- 🧮 Python, Django Framework;  
+- 🧮 Python, Django Framework, Golang;  
 - 🩹 Node.js, Express.js, Nest.js;
 - 🫀 MongoDB, PostgreSQL;  
 
